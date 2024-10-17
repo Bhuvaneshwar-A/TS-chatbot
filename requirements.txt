@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+Werkzeug
+mysql-connector-python
+cryptography
