@@ -1,5 +1,2 @@
-Flask
-Flask-Cors
-Werkzeug
-mysql-connector-python
-cryptography
+streamlit
+requests
