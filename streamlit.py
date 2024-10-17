@@ -187,9 +187,9 @@ with st.sidebar:
     
     st.markdown("<h4 style='color: #1a1f36; margin: 0.4rem 0;'>Example Queries</h4>", unsafe_allow_html=True)
     example_queries = [
-        "Compare Bitcoin and Ethereum technical indicators",
         "Should I invest in Solana and Cardano?",
-        "Analyze BTC market trends"
+         "Analyze BTC market trends",
+        "Compare Bitcoin and Ethereum technical indicators",
     ]
     for query in example_queries:
         if st.button(f"🔍 {query}", key=f"example_{query}"):
